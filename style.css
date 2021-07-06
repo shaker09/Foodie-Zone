@@ -61,3 +61,11 @@ p{
     padding-right: 10px;
     border-radius: 10%;
 }
+.Extra-part{
+    border-radius: 40px;
+    box-shadow: 20px 20px 40px grey;
+    text-align: center;
+    display: flex;
+    padding: 5px 40px 5px 40px;
+    margin: 20px 10% 20px 10%;
+}
