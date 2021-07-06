@@ -14,6 +14,7 @@ p{
 }
 .top-part{
     background-image: url(pic/download22.jpg);
+    padding: 5%;
 }
 .decorate{
     display: flex;
@@ -34,11 +35,29 @@ p{
 }
 .Middle-part{
     background-image: url(pic/7.png);
+    padding: 5%;
 }
 .Imgdev{
-    padding-left: 20%;
+    padding-left: 45%;
+    padding-top: 10%;
 }
 .word-decorate{
     text-align: left;
-    padding-left: 15%;
+    padding-left: 20%;
+}
+.End-part{
+    text-align: center;
+    padding: 5%;
+}
+.recipe-item{
+    width: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 20px 20px 40px grey;
+}
+.food-img{
+    padding-right: 10px;
+    border-radius: 10%;
 }
